@@ -1,5 +1,4 @@
-# self-pruning-neural-network
-self pruning neural network using pytorch
+
 # Self-Pruning Neural Network
 
 This project implements a neural network that learns to prune its own weights during training using learnable gates.
